@@ -1,0 +1,1 @@
+June 2025 Productivity Dashboard: Tracks 4,047.83 actual hours vs. 6,112 max targets (54.52% efficiency). Features daily trends, team comparisons (Evening Team leading), and top resource rankings. Includes dynamic filters for teams and dates to optimize workload and performance tracking
